@@ -1,0 +1,1 @@
+Open index.html to preview locally, or upload all files to GitHub and enable GitHub Pages from the main branch root.
